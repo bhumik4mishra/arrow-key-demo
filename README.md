@@ -1,2 +1,14 @@
 # arrow-key-demo
-A small JavaScript demo that listens to arrow key presses inside an input box and logs movement directions (up, down, left, right) to the console. Also shows how to handle double-click events on a button.
+# Arrow Key Demo
+
+A tiny demo that logs “player moves” messages when you press arrow keys inside the input box, and also on button double-click.
+
+## How to try it
+
+Open `index.html` in a browser, click into the input box, then press arrow keys.
+
+## Technologies
+
+- HTML
+- Vanilla JavaScript
+
